@@ -12,6 +12,7 @@ public class HelloServiceProperties {
         return msg;
     }
 
+
     public void setMsg(String msg) {
         this.msg = msg;
     }
